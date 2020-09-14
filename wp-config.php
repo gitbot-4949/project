@@ -54,6 +54,7 @@ define( 'AUTH_SALT',        '?Cn1D/2O1.;m_B}o:nsOqh?7Qpu[E0^*Sx?jT/bf&5uOa`Fn||k
 define( 'SECURE_AUTH_SALT', 'Sf_OOd_2,#uRs-CaMTxi424IJMclT;x:S4J>tw&8}+0U1~|<&1,0jol)o;jg(`27' );
 define( 'LOGGED_IN_SALT',   ']Ad|svtmRG7^>Jbptva(}^A??sOP8rBcoTfycti^K[INO8N9/B,8VD`ZnAgn&D/&' );
 define( 'NONCE_SALT',       ';TU=@wvVbgaTXiNaAnVO]Aq+M?mh/#f}4^0V0p84]f`1w`kp  -<BT`~:|ET53A/' );
+define('ALLOW_UNFILTERED_UPLOADS',true);
 
 /**#@-*/
 
